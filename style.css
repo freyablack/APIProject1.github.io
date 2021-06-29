@@ -1,0 +1,33 @@
+.first5{
+    width: 50%;
+}
+
+
+.last5{
+    width: 50%;
+}
+
+.movies{
+    display: flex;
+}
+
+.movies img{
+    margin-right: 50px;
+}
+
+/* Jumbotron */
+.jumbotron{
+    height: 150px;
+    text-align: center;
+    background-color: teal;
+}
+
+.logo{
+    width: 200px;
+    height: 150px;
+    float: left;
+    opacity: 0.5;
+    margin-right: -90px;
+}
+
+/* Jumbotron End */
